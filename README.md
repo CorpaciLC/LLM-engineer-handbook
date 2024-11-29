@@ -35,8 +35,8 @@ Assess and interpret reasoning capabilities of large language models
 
 ### Getting Started
 ```bash
-git clone https://github.com/[your-username]/llm-reasoning-eval
-cd llm-reasoning-eval
+git clone https://github.com/CorpaciLC/LLM-reasoning.git
+cd LLM-reasoning
 pip install -r requirements.txt
 python setup.py develop
 ```
