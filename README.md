@@ -8,7 +8,7 @@ Assess and interpret reasoning capabilities of large language models
 **Reasoning Assessment Dimensions**
 - **Logical Reasoning**: evaluation of deductive and inductive reasoning
 - **Causal Inference**: mapping reasoning pathways and decision-making processes
-- **Semantic Understanding**: analyzing depth and nuance of contextual comprehension
+- **Semantic Understanding**: analyzing depth and nuance of contextual comprehension / text prompts
 - **Multimodal testing / Input-structure variation**: TBD
 - ** ... **: TBD
 
