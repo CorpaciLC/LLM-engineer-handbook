@@ -1,5 +1,5 @@
 ## Large Language Model Reasoning Evaluation Framework
-
+_life is chaotic, this goes slower than expected. for ideas/thoughts, lmk_
 ### Project Overview
 Assess and interpret reasoning capabilities of large language models
 
